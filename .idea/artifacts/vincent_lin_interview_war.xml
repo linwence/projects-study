@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vincent.lin.interview:war">
+    <output-path>$PROJECT_DIR$/interview/target</output-path>
+    <root id="archive" name="vincent.lin.interview.war">
+      <element id="artifact" artifact-name="vincent.lin.interview:war exploded" />
+    </root>
+  </artifact>
+</component>
