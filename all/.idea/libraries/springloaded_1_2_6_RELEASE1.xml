@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="springloaded-1.2.6.RELEASE1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-boot-hello/lib/springloaded-1.2.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

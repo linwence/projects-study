@@ -24,11 +24,15 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="hibernate01" />
+        <module name="spring-boot-hello" />
+        <module name="spring-boot-mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="all" target="1.5" />
       <module name="hibernate01" target="1.5" />
+      <module name="spring-boot-hello" target="1.5" />
+      <module name="spring-boot-mybatis" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

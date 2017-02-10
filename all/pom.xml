@@ -7,6 +7,8 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>hibernate01</module>
+    <module>spring-boot-hello</module>
+    <module>spring-boot-mybatis</module>
   </modules>
   <name>all Maven Webapp</name>
   <url>http://maven.apache.org</url>
